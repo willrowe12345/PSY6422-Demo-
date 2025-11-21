@@ -1,5 +1,5 @@
 # PSY6422-Demo-
 
 # Name
-William Rowe
+William Rowe is my name
 
